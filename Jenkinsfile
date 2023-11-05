@@ -1,4 +1,4 @@
-@Library ("com.i27academy.slb@other") _
+@Library ("com.i27academy.slb@master") _
 manifests(
   appName: 'test'
 )
